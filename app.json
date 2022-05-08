@@ -1,0 +1,8 @@
+{
+  "name": "rco-book-seller-ui",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
